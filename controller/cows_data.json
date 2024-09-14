@@ -1,0 +1,77 @@
+[
+    {
+        "cow_id": "10000001",
+        "breed": "white",
+        "age": "2 years, 3 months"
+    },
+    {
+        "cow_id": "10000002",
+        "breed": "white",
+        "age": "3 years, 8 months"
+    },
+    {
+        "cow_id": "10000003",
+        "breed": "white",
+        "age": "1 years, 3 months"
+    },
+    {
+        "cow_id": "10000004",
+        "breed": "white",
+        "age": "7 years, 1 months"
+    },
+    {
+        "cow_id": "10000005",
+        "breed": "white",
+        "age": "10 years, 3 months"
+    },
+    {
+        "cow_id": "10000006",
+        "breed": "brown",
+        "age": "3 years, 5 months"
+    },
+    {
+        "cow_id": "10000007",
+        "breed": "brown",
+        "age": "0 years, 9 months"
+    },
+    {
+        "cow_id": "10000008",
+        "breed": "brown",
+        "age": "6 years, 3 months"
+    },
+    {
+        "cow_id": "10000009",
+        "breed": "brown",
+        "age": "6 years, 0 months"
+    },
+    {
+        "cow_id": "10000010",
+        "breed": "brown",
+        "age": "8 years, 2 months"
+    },
+    {
+        "cow_id": "10000011",
+        "breed": "pink",
+        "age": "8 years, 7 months"
+    },
+    {
+        "cow_id": "10000012",
+        "breed": "pink",
+        "age": "9 years, 11 months"
+    },
+    {
+        "cow_id": "10000013",
+        "breed": "pink",
+        "age": "4 years, 6 months"
+    },
+    {
+        "cow_id": "10000014",
+        "breed": "pink",
+        "age": "9 years, 4 months"
+    },
+    {
+        "cow_id": "10000015",
+        "breed": "pink",
+        "age": "7 years, 2 months"
+    }
+]
